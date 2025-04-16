@@ -128,4 +128,35 @@ Key visualizations include:
 
 - Country-Wise Content Production: A world map or heatmap displaying the number of movies produced per country, illustrating Netflix’s global reach and regional diversity.
 
+![NETFLIX](Images/Netflix-Data-Analysis-Dashboard.png)
+
 These dashboards make it easy for decision-makers to explore the data interactively, filter results, and draw their own insights. By transforming raw data into visual stories, the Share phase ensures that the analysis is not only technically sound but also actionable and easy to understand for both technical and non-technical audiences.
+
+### ACT PHASE
+
+In the Act phase, insights from the analysis are turned into strategic actions. Based on the findings:
+
+- Invest in Popular Genres: Focus on producing or acquiring content in top-performing genres to match user preferences.
+
+- Promote High-Rated Content: Use popularity and rating insights to highlight successful titles and reevaluate underperforming ones.
+
+- Leverage Release Trends: Replicate strategies from high-production years to maintain content momentum.
+
+- Expand Regional Offerings: Target underrepresented countries with localized content to grow the global audience.
+
+- Support Data-Driven Strategy: Use Tableau dashboards to guide informed content and marketing decisions.
+
+#### RECOMMENDATIONS
+
+Based on the analysis of Netflix’s movie dataset, the following recommendations are proposed:
+
+1- Prioritize Popular Genres: Invest more in top-performing genres to align with viewer interests and boost engagement.
+
+2- Promote High-Performing Titles: Leverage movies with high ratings and popularity in marketing campaigns and recommendation systems.
+
+3- Improve Low-Performing Content: Reassess underperforming titles and consider adjustments in content strategy or categorization.
+
+4- Focus on High-Output Years: Analyze what contributed to peak production years and apply similar strategies moving forward.
+
+5- Strengthen Regional Content Diversity: Expand content offerings in underrepresented countries to tap into new markets and meet local demand.
+
